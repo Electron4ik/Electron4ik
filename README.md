@@ -6,9 +6,7 @@
       <img src="https://i.pinimg.com/originals/c7/ef/c4/c7efc4ba86e0628ea81e3dca8ab9d9f9.gif" width="280" alt="fox-avatar" />
     </td>
     <td align="center" valign="middle" width="450">
-      <img src="https://streak-stats.demolab.com?user=Electron4ik&theme=dark&fire=EB9105&background=45%2C000000%2C01101F" alt="GitHub Streak" />
-      <vbr/>
-      <img src="https://github-readme-stats.vercel.app/api?username=Electron4ik&theme=dark&hide_border=false&include_all_commits=true" alt="GitHub Stats" />
+      [![GitHub Streak](https://streak-stats.demolab.com?user=Electron4ik&theme=dark&hide_border=true&background=EB545400)](https://git.io/streak-stats)
     </td>
   </tr>
 </table>
