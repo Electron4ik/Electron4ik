@@ -15,6 +15,7 @@
 <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" alt="vs" />
 <img src="https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl" alt="opengl" />
 &nbsp;
+<br></br>
 <img src="https://komarev.com/ghpvc/?username=electron4ik&color=ea4aaa&style=flat-square" alt="Views" />
 
 </div>
