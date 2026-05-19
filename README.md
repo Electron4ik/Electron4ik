@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="[https://i.pinimg.com/originals/c7/ef/c4/c7efc4ba86e0628ea81e3dca8ab9d9f9.gif](https://tenor.com/view/42-42-%D0%B1%D1%80%D0%B0%D1%82%D1%83%D1%85%D0%B0-5opka-%D0%BF%D1%8F%D1%82%D1%91%D1%80%D0%BA%D0%B0-%D0%BF%D1%8F%D1%82%D0%B5%D1%80%D0%BA%D0%B0-gif-8275266585518721023)" width="165" alt="5opka" /> 
+<img src="https://tenor.com/view/42-42-%D0%B1%D1%80%D0%B0%D1%82%D1%83%D1%85%D0%B0-5opka-%D0%BF%D1%8F%D1%82%D1%91%D1%80%D0%BA%D0%B0-%D0%BF%D1%8F%D1%82%D0%B5%D1%80%D0%BA%D0%B0-gif-8275266585518721023" width="165" alt="5opka" /> 
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="[https://streak-stats.demolab.com?user=Electron4ik&theme=dark&fire=EB9105&background=45%2C000000%2C01101F](https://streak-stats.demolab.com?user=Electron4ik&theme=dark&hide_border=true&background=EB545400)" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=Electron4ik&theme=dark&hide_border=true&background=EB545400" alt="GitHub Streak" />
 
 <br/><br/>
 
