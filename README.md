@@ -9,8 +9,8 @@
 &nbsp;
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Electron4ik&theme=apprentice" width="250" alt="Repo Languages" />
 &nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Electron4ik&theme=apprentice" width="250" alt="General Stats" />
-
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Electron4ik&theme=github_dark" width="250" alt="General Stats" />
+<hr>
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)
