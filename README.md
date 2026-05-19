@@ -1,19 +1,16 @@
 <div align="center">
 
-<table border="0" cellpadding="5" cellspacing="0">
-  <tr>
-    <td align="center" valign="middle" width="300">
-      <img src="https://i.pinimg.com/originals/c7/ef/c4/c7efc4ba86e0628ea81e3dca8ab9d9f9.gif" width="280" alt="fox-avatar" />
-    </td>
-    <td align="center" valign="middle" width="450">
-      <img src="https://streak-stats.demolab.com?user=Electron4ik&theme=dark&fire=EB9105&background=45%2C000000%2C01101F" alt="GitHub Streak" />
-    </td>
-  </tr>
-</table>
+<img src="https://i.pinimg.com/originals/c7/ef/c4/c7efc4ba86e0628ea81e3dca8ab9d9f9.gif" width="165" alt="tails-pixel" /> 
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://streak-stats.demolab.com?user=Electron4ik&theme=dark&fire=EB9105&background=45%2C000000%2C01101F" alt="GitHub Streak" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=electron4ik&color=ea4aaa&style=flat-square" alt="Views" />
-</p>
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Electron4ik&theme=github-dark" alt="Activity Graph" width="700" />
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=electron4ik&color=ea4aaa&style=flat-square" alt="Views" />
 
 </div>
 
