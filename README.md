@@ -2,7 +2,7 @@
 
 <img src="https://c.tenor.com/ctenHYOAx_8AAAAd/tenor.gif" width="165" alt="5opka" /> 
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://streak-stats.demolab.com?user=Electron4ik&theme=dark&hide_border=true&background=EB545400" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=Electron4ik&theme=dark&hide_border=true&background=0d1117" alt="GitHub Streak" />
 
 <br/><br/>
 
