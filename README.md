@@ -1,14 +1,12 @@
 <div align="center">
 
-<img src="https://c.tenor.com/ctenHYOAx_8AAAAd/tenor.gif" width="165" alt="5opka" /> 
+<img src="https://c.tenor.com/ctenHYOAx_8AAAAd/tenor.gif" height="165" alt="5opka" /> 
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://streak-stats.demolab.com?user=Electron4ik&theme=dark&hide_border=true&background=0d1117" alt="GitHub Streak" />
 
-<br/><br/>
+<hr>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Electron4ik&theme=github-dark" alt="Activity Graph" width="760" />
-
-<br/><br/>
+<!--><img src="https://github-readme-activity-graph.vercel.app/graph?username=Electron4ik&theme=github-dark" alt="Activity Graph" width="760" /><--!>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Electron4ik&theme=github_dark" width="250" alt="Commit Languages" />
 &nbsp;
