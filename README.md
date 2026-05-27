@@ -43,9 +43,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=electron4ik&color=ea4aaa&style=flat-square" alt="Views" />
   <br /><br />
-  <a href="https://wakatime.com/@Electron4ik">
-    <img src="https://wakatime.com/badge/user/e598fabf-2622-48e2-8a6b-2da9f596f6df.svg" alt="WakaTime" />
-  </a>
+  <a href="https://wakatime.com/@Electron4ik"><img src="https://wakatime.com/badge/user/e598fabf-2622-48e2-8a6b-2da9f596f6df.svg"></a>
 </p>
 
 </div>
